@@ -28,7 +28,7 @@ Write a single generic regular expression which can extract the following patter
 
    g) 1 X New Nankang N889 Mudstar M/T LT245/75R16 120/116N E/10 Ply ROWL Mud Tires MT        
 
-      (Extract : LT245/75R16120/116N E/10)
+      (Extract : LT245/75R16 120/116N E/10)
 
    h) Pirelli Night Dragon Motorcycle Front Tire 130/90-16 2211500                           
 
